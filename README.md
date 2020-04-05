@@ -1,1 +1,1 @@
-# ![app icon](./resources/images/nhoggy_icon.PNG) NHoggy
+# ![app icon](./resources/images/nhoggy_favicon.ico) NHoggy
