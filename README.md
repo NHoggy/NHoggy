@@ -1,3 +1,3 @@
 # ![app icon](./resources/images/nhoggy_icon.png) NHoggy
 
-_Coooooooming Soon_
+_Coooooooming Sooooooooon_
